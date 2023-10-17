@@ -1,9 +1,8 @@
 # Hi 👋 My name is Martin Hinshelwood
 
-**Lean-Agile & DevOps Advisor with 20+ years experience**
+#### Lean-Agile & DevOps Advisor with 20+ years experience
 
-Executive Technology Advisor | Professional Scrum Trainer | Professional Kanban Trainer | Microsoft MVP: GitHub & Azure DevOps | Neuro-divergent & Dyslexic
-
+_Executive Technology Advisor | Professional Scrum Trainer | Professional Kanban Trainer | Microsoft MVP: GitHub & Azure DevOps | Neuro-divergent & Dyslexic_
 
 **I am** a technology-focused passionate agile leader with a track record of inspiring, encouraging, and igniting momentum in organisations. As a featured speaker, author, and industry thought leader, **I help** organisations build a vision and execute evolutionary and revolutionary change. **My** deep technical knowledge, business insight, and experience drive impactful change for organisations. 
 

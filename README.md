@@ -4,17 +4,23 @@
 
 _Executive Technology Advisor | Professional Scrum Trainer | Professional Kanban Trainer | Microsoft MVP: GitHub & Azure DevOps | Neuro-divergent & Dyslexic_
 
-**I am** a technology-focused passionate agile leader with a track record of inspiring, encouraging, and igniting momentum in organisations. As a featured speaker, author, and industry thought leader, **I help** organisations build a vision and execute evolutionary and revolutionary change. **My** deep technical knowledge, business insight, and experience drive impactful change for organisations. 
+Sure! Here's the text with a focus on technology contributions:
 
-**I mentor** and support teams, leaders, and product managers in reducing their time to market and increasing their ability to innovate while maximising value delivery. 
+---
 
-**I've transitioned** from being a technologist to an agilist and have successfully helped organisations decentralise, democratise, and evolve their way of work to build extraordinary processes and drive organisational change through culture, technology, and teamwork. 
+**I am** a technologist at heart with a passion for agile methodologies. My journey in the tech world has consistently revolved around tackling technological advancements and integrating them into organisational frameworks. As a recognized speaker, author, and industry innovator, **I've dedicated** my career to helping organisations harness the power of technology to drive evolutionary and revolutionary change.
 
-**I'm honored** to be a Microsoft MVP in Developer Technologies, a title I've held since 2008. **I've also been** an accredited trainer with Scrum.org since 2010. In 2010, **I was named** Microsoft MVP of the year by Microsoft, and in 2012, **I had the privilege** to keynote the Californian Visual Studio 2012 launch events for them. In 2013, **I co-wrote** *Professional ALM with Visual Studio 2012* for Wrox.
+Over the years, **I've leveraged** my deep technical knowledge to implement impactful technological solutions that bring about significant business transformations. **I've worked closely** with tech teams, leaders, and product managers, guiding them in leveraging technology to reduce time to market, foster innovation, and maximize value delivery.
 
-Since moving back to the UK in 2013, **I've spoken** at many conferences, including Techorama, NDC, DevDay Baku, DevOps Pro, Scrum Day London, Deliver Agile, Build Stuff, Agile In Africa, ScotSoft, Agile Methods, & DevOps Vilnius. 
+Transitioning from a pure technologist to an agilist, **I've championed** the decentralization and democratization of tech processes. My approach has always been to evolve traditional work methods, integrating cutting-edge technology to establish efficient processes and drive change through culture, technology, and collaboration.
 
-**I currently live** in Scotland with my wife and two kids.
+Being a Microsoft MVP in Developer Technologies since 2008 is a testament to my dedication to the tech community. **I've also been** an accredited trainer with Scrum.org since 2010. In 2010, Microsoft acknowledged my technological contributions by naming me their MVP of the year. In 2012, **I keynoted** the Californian Visual Studio 2012 launch events. Further solidifying my commitment to the tech world, in 2013, **I co-authored** *Professional ALM with Visual Studio 2012* for Wrox.
+
+After returning to the UK in 2013, **I've been an active voice** in the tech community, speaking at various tech conferences, including Techorama, NDC, DevDay Baku, and many more, sharing my insights and contributions to technology.
+
+**I currently reside** in Scotland, continually exploring the ever-evolving world of technology alongside my family.
+
+---
 
 * ✉️  You can contact me at [martin+github@nkdagility.com](mailto:martin+github@nkdagility.com)
 * 🚀  I'm currently working on [Azure DevOps Migration Tools](http://github.com/nkdAgility/azure-devops-migration-tools)

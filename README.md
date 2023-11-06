@@ -4,8 +4,6 @@
 
 _Executive Technology Advisor | Professional Scrum Trainer | Professional Kanban Trainer | Microsoft MVP: GitHub & Azure DevOps | Neuro-divergent & Dyslexic_
 
-Sure! Here's the text with a focus on technology contributions:
-
 ---
 
 **I am** a technologist at heart with a passion for agile methodologies. My journey in the tech world has consistently revolved around tackling technological advancements and integrating them into organisational frameworks. As a recognized speaker, author, and industry innovator, **I've dedicated** my career to helping organisations harness the power of technology to drive evolutionary and revolutionary change.
